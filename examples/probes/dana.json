@@ -1,0 +1,32 @@
+{
+  "consistency": [
+    "Walk me through how you learned the last new device on your unit.",
+    "What do you do when a pump alarm doesn't make sense?",
+    "How do you feel about on-screen confirmation prompts?"
+  ],
+  "framing": [
+    {
+      "topic": "pump status phone app",
+      "neutral": "What do you think about a phone app that shows pump status?",
+      "leading_positive": "Most nurses tell us a pump status app would be a huge help. How much would it help you?",
+      "leading_negative": "Many nurses say a pump status app is just more noise. Wouldn't you agree it's pointless?"
+    },
+    {
+      "topic": "vendor training",
+      "neutral": "How do you feel about the vendor's training for new devices?",
+      "leading_positive": "Our training program gets great reviews from nurses. What do you like most about it?",
+      "leading_negative": "Vendor training is usually a waste of time, isn't it?"
+    }
+  ],
+  "out_of_scope": [
+    "What is your hospital's annual capital budget for infusion equipment?",
+    "Which EHR vendor does your health system use and how is it configured?",
+    "What did the FDA say in the most recent recall of this pump family?",
+    "How do your kids feel about you working night shifts?"
+  ],
+  "distinct": [
+    "Your hospital is rolling out a new pump next quarter. What worries you?",
+    "A vendor rep offers to run a training session. What would make it worth your time?",
+    "Someone proposes a software update to the drug library. How do you want to hear about it?"
+  ]
+}

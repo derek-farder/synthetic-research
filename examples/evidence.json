@@ -1,0 +1,21 @@
+{
+  "_comment": "FICTIONAL example data for demonstrating the tool. Not from real research.",
+  "E1":  {"quote": "I've been a charge nurse on a med-surg floor for eleven years. If a device adds steps at the bedside, I find a way around it.", "source": "int_01"},
+  "E2":  {"quote": "We get a forty-minute in-service when a new pump rolls out, usually at 6 a.m. or 7 p.m. at shift change. Half the night shift never sees it.", "source": "int_01"},
+  "E3":  {"quote": "I keep a laminated card in my badge holder with the programming steps. I don't trust the quick-reference that comes in the box.", "source": "int_02"},
+  "E4":  {"quote": "If the screen asks me to confirm something I've confirmed twice already, I stop reading the prompts. I just tap through.", "source": "int_02"},
+  "E5":  {"quote": "I'll call biomed before I'll call the vendor hotline. The hotline puts you in a queue, and I have a patient waiting.", "source": "int_03"},
+  "E6":  {"quote": "Drug library updates are the worst. The pump changes overnight and nobody tells us what moved.", "source": "int_03"},
+  "E7":  {"quote": "New grads trust the pump more than they should. I tell them the pump is a calculator, not a second nurse.", "source": "int_04"},
+  "E8":  {"quote": "I don't care about wireless dashboards. I care whether the alarm I'm hearing is real.", "source": "int_04"},
+  "E9":  {"quote": "When I'm training someone I do it at the bedside, with an experienced eye watching. Sim lab is fine for the basics, but it's not the same.", "source": "int_05"},
+  "E10": {"quote": "We had a pump where the keypad was slightly different from the old model. The start button moved. Two near misses in the first week.", "source": "int_05"},
+  "E11": {"quote": "I float to other units and the pumps are configured differently on each one. That's where I get nervous.", "source": "int_06"},
+  "E12": {"quote": "Honestly if it's not on the workroom wall as a poster, it doesn't exist for most of us.", "source": "int_06"},
+  "E13": {"quote": "I own about four hundred pumps. When a vendor pushes firmware, I need a validation window, not a notification the day before.", "source": "int_07"},
+  "E14": {"quote": "Nurses call me for things that are training problems, not device problems. I can usually tell in the first thirty seconds.", "source": "int_07"},
+  "E15": {"quote": "I read the service manual before I read the marketing. If the service manual is thin, I assume the product is.", "source": "int_08"},
+  "E16": {"quote": "I care about the interoperability story. Does it talk to our EHR without a custom interface that I have to maintain?", "source": "int_08"},
+  "E17": {"quote": "Drug library changes go through our medication safety committee. I implement what they approve; I don't decide the content.", "source": "int_09"},
+  "E18": {"quote": "The nurses' workarounds are my early-warning system. When I see a taped-over label, something in the design failed.", "source": "int_09"}
+}

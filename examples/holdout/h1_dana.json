@@ -1,0 +1,19 @@
+{
+  "id": "int_H1",
+  "persona_id": "dana",
+  "note": "FICTIONAL held-out interview. Never used to build the persona or its evidence.",
+  "turns": [
+    {"q": "Tell me about the last time a new device rolled out on your unit.",
+     "a": "Last spring we got new pumps. They gave us a short in-service at shift change and the night crew basically got a handout and that was it. I ended up showing two of my night nurses myself at the bedside the first week."},
+    {"q": "What do you do when something on the pump doesn't make sense in the middle of a shift?",
+     "a": "I try the card I keep with the steps first. If that doesn't clear it, I call biomed. I'm not sitting on hold with the manufacturer with a patient waiting."},
+    {"q": "How do you feel about all the confirmation screens?",
+     "a": "After the second one that asks the same thing, I'm tapping through. I know I shouldn't, but you stop seeing them."},
+    {"q": "Would a phone app that shows pump status help you?",
+     "a": "Not really. I've got ten other things buzzing already. What I want is to know that when the pump alarms, it means something."},
+    {"q": "What happens when you float to a different unit?",
+     "a": "That's when I get careful. Every unit has its pumps set up a little differently and I don't trust my muscle memory there."},
+    {"q": "How involved are you in deciding which pump the hospital buys?",
+     "a": "Not at all. Purchasing and biomed handle that. I find out when the boxes show up."}
+  ]
+}

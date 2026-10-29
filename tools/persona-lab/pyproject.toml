@@ -1,0 +1,19 @@
+[project]
+name = "persona-lab"
+version = "0.1.0"
+description = "Backtest and coherence-test synthetic research personas"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+api = ["anthropic>=0.40"]
+
+[project.scripts]
+persona-lab = "persona_lab.cli:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["persona_lab"]

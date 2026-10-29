@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Runs the bundled harness from the workspace root with workspace-relative paths.
+# Uses python3, or python when python3 is not installed (common on Windows).
+set -euo pipefail
+cd "$(dirname "$0")/.."
+PY="$(command -v python3 || command -v python || true)"
+if [ -z "$PY" ]; then echo "Python 3 not found. Install Python 3.9+ and retry." >&2; exit 127; fi
+PYTHONPATH=tools/persona-lab exec "$PY" -m persona_lab "$@"
